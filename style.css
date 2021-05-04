@@ -7,7 +7,7 @@
     transition: all 0.5s ease-out;
 }
 
-.avatar:hover{
+.avatar:hover {
    transform: scale(1.4);
 }
 
@@ -16,5 +16,5 @@
 }
 
 .border-txt {
-    color:midnightblue;
+    color: midnightblue;
 }
