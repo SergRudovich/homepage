@@ -1,3 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
 .avatar {
-    
+    transition: all 0.5s ease-out;
+}
+
+.avatar:hover{
+   transform: scale(1.4);
+}
+
+.red-txt {
+    color: red;
+}
+
+.border-txt {
+    color:midnightblue;
 }
